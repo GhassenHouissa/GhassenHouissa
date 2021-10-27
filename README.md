@@ -56,7 +56,7 @@
 <hr> 
 ### connect with me:
  - 📫 ghassen.houissa1@esprit.tn 
- 
+ <br/>
  <a href="https://www.linkedin.com/in/houissa-ghassen-58a43414b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
