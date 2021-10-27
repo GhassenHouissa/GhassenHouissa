@@ -50,6 +50,10 @@
 
 ![GhassenHouissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhassenHouissa&show_icons=true&theme=radical)
 
-[![GhassenHouissa's github stats](https://github-readme-stats.vercel.app/api?username=GhassenHouissa&show_icons=true&theme=buefy)](https://github.com/GhassenHouissa/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhassenHouissa&show_icons=true&theme=buefy&layout=compact)](https://github.com/GhassenHouissa/github-readme-stats)
 
 <br/>
+
+<hr> 
+### connect with me:
+ - 📫 ghassen.houissa1@esprit.tn 
+ -[Linkedin]:https://linkedin.com/in/houissa-ghassen-58a43414b
