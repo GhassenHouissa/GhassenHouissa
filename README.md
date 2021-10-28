@@ -59,7 +59,7 @@
 
 ![GhassenHouissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhassenHouissa&show_icons=true&theme=radical)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhassenHouissa&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180" alt="GhassenHouissa" >
+
 
 
 <br/>
